@@ -1,0 +1,7 @@
+{
+  "allowlist": [
+    "command-guard",
+    "data-exfiltration-guard",
+    "skill-security-scanner"
+  ]
+}
